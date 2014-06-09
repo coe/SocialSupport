@@ -1,0 +1,9 @@
+{
+    "description": "Appcelerator Cloud Services",
+    "directories": {
+        "lib": "."
+    },
+    "main": "jp.coe.sosialsupport",
+    "name": "jp.coe.sosialsupport",
+    "version": "1.0.0"
+}
